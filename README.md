@@ -1,15 +1,13 @@
 <!-- ========================= HERO SECTION ========================= -->
-<table width="100%">
+<table>
 <tr>
-<td width="58%" valign="middle">
+<td width="56%" valign="middle">
 
-# Hi 👋, I'm **Yeddula Gangadhar**
+# Hi 👋, I'm Yeddula Gangadhar
 
-### **MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast**
+### MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast
 
-<p>
-  Passionate about building <b>full-stack applications</b>, solving real-world problems, and growing as a <b>Full-Stack Developer + AI/ML Engineer</b>.
-</p>
+Passionate about building **full-stack applications**, solving **real-world problems**, and growing as a **Full-Stack Developer + AI/ML Engineer**.
 
 <p>
   <a href="https://github.com/gangadharyeddula">
@@ -22,13 +20,13 @@
 
 <p>
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00C2FF&vCenter=true&width=650&lines=Building+ideas.+Solving+problems.;MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Explorer;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00C2FF&vCenter=true&width=650&lines=Building+ideas.+Solving+problems.;MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Explorer;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
 </td>
 
-<td width="42%" align="right" valign="middle">
+<td width="44%" align="right" valign="middle">
   <img src="./coder-right.png" alt="Coder Illustration" width="100%" />
 </td>
 </tr>
@@ -38,38 +36,18 @@
 
 # 🚀 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-- 🎓 **B.Tech student in Computer Science Engineering (AI & ML)**
-- 💻 Interested in **MERN Stack Development, Python Full-Stack, and AI/ML**
+- 🎓 B.Tech student in **Computer Science Engineering (AI & ML)**
+- 💻 Passionate about **MERN Stack Development, Python Full-Stack, and AI/ML**
 - 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, FastAPI**
 - 🛠️ I enjoy building **real-world projects** and improving my coding skills
 - 📚 Working on **DSA, backend development, and full-stack applications**
 - 🎯 Goal: **Full-Stack Developer + AI/ML Engineer**
 
-</td>
-
-<td width="35%" valign="top">
-
-## ⚡ Quick Facts
-
-- 🌍 From: **India**
-- 💡 Focus: **Full-Stack & AI/ML**
-- 📘 Learning Every Day
-- 🚀 Building Consistently
-- ❤️ Code • Learn • Build • Repeat
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -77,27 +55,27 @@
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=5CC8FF" />
 </p>
 
-## 🌐 Frontend
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-## 🧰 Tools
+### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
