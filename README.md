@@ -1,22 +1,17 @@
-<!-- ========================= TOP BANNER ========================= -->
-<p align="center">
-  <img src="./banner.png" alt="Yeddula Gangadhar Banner" width="100%" />
+<!-- ========================= HERO SECTION ========================= -->
+<table width="100%">
+<tr>
+<td width="58%" valign="middle">
+
+# Hi 👋, I'm **Yeddula Gangadhar**
+
+### **MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast**
+
+<p>
+  Passionate about building <b>full-stack applications</b>, solving real-world problems, and growing as a <b>Full-Stack Developer + AI/ML Engineer</b>.
 </p>
 
-<!-- ========================= INTRO ========================= -->
-<h1 align="center">Hi 👋, I'm Yeddula Gangadhar</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast</h3>
-
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Enthusiast;Building+ideas.+Solving+problems.;Code.+Learn.+Build.+Repeat."
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/gangadharyeddula">
     <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -24,6 +19,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gangadhar_Yeddula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p>
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00C2FF&vCenter=true&width=650&lines=Building+ideas.+Solving+problems.;MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Explorer;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+  </a>
+</p>
+
+</td>
+
+<td width="42%" align="right" valign="middle">
+  <img src="./coder-right.png" alt="Coder Illustration" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,12 +42,12 @@
 <tr>
 <td width="65%" valign="top">
 
-- 🎓 I’m a **B.Tech student in Computer Science Engineering (AI & ML)**
-- 💻 Passionate about **MERN Stack Development, Python Full-Stack, and AI/ML**
+- 🎓 **B.Tech student in Computer Science Engineering (AI & ML)**
+- 💻 Interested in **MERN Stack Development, Python Full-Stack, and AI/ML**
 - 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, FastAPI**
-- 🛠️ I love building **real-world projects** and solving practical problems
-- 📚 Improving my **DSA, backend development, and full-stack application skills**
-- 🎯 Goal: To become a **Full-Stack Developer + AI/ML Engineer**
+- 🛠️ I enjoy building **real-world projects** and improving my coding skills
+- 📚 Working on **DSA, backend development, and full-stack applications**
+- 🎯 Goal: **Full-Stack Developer + AI/ML Engineer**
 
 </td>
 
@@ -49,8 +58,8 @@
 - 🌍 From: **India**
 - 💡 Focus: **Full-Stack & AI/ML**
 - 📘 Learning Every Day
-- 🚀 Always Building
-- ❤️ Code. Learn. Build. Repeat.
+- 🚀 Building Consistently
+- ❤️ Code • Learn • Build • Repeat
 
 </td>
 </tr>
@@ -130,7 +139,7 @@
 <td width="50%" valign="top">
 
 ## 📌 Placement Portal
-Full-stack placement management application for handling student and placement-related activities.
+Full-stack placement management application for handling placement-related activities.
 
 **Tech:** React, Node.js, MongoDB, FastAPI  
 🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
@@ -152,7 +161,7 @@ A simple and responsive BMI calculator project with clean UI and beginner-friend
 <td width="50%" valign="top">
 
 ## 📌 Python Mini Projects
-A collection of Python mini projects for learning, logic building, and hands-on practice.
+A collection of Python mini projects for learning, practice, and logic building.
 
 **Tech:** Python  
 🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
@@ -178,7 +187,7 @@ Mini machine learning and AI projects focused on experimentation and practical u
 - 🔭 Building **full-stack web applications**
 - ⚡ Working with **FastAPI, Node.js, MongoDB**
 - 📘 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **AI/ML concepts and projects**
+- 🤖 Exploring **AI/ML concepts and mini projects**
 - 🚀 Improving clean code, backend logic, and project structure
 
 ---
