@@ -1,157 +1,202 @@
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="./banner.png" alt="Gangadhar Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yeddula Gangadhar</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Enthusiast;Always+Learning+and+Building+Projects" 
-      alt="Typing SVG" 
-    />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Enthusiast;Building+ideas.+Solving+problems.;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 I’m a **B.Tech student in CSE (AI & ML)**
-- 💻 I’m interested in **MERN Stack Development, Python Full-Stack, and AI/ML**
-- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, FastAPI, and Machine Learning**
-- 🛠️ I enjoy building **real-world projects** and improving my coding skills
-- 📚 I’m working on **DSA, backend development, and full-stack applications**
-- 🎯 My goal is to become a **Full-Stack Developer + AI/ML Engineer**
-
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- 🔭 Building **full-stack web applications**
-- ⚡ Working with **FastAPI, Node.js, MongoDB**
-- 📘 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **AI/ML concepts and projects**
-- 🚀 Improving project structure, clean code, and backend logic
-
----
-
-## 💼 Experience
-
-### MERN Stack Developer Intern
-- Built full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
-- Worked on **REST APIs, CRUD operations, and frontend-backend integration**
-
-### AI & Machine Learning Intern
-- Learned **ML fundamentals, data preprocessing, and model evaluation**
-- Worked on **predictive analytics and machine learning concepts**
-
----
-
-## 📂 Featured Projects
-
-### 1. Placement Portal
-- Full-stack application for managing placement-related activities
-- Built using **React / Node.js / MongoDB / FastAPI concepts**
-
-### 2. BMI Calculator
-- Simple and clean application for calculating BMI
-- Beginner-friendly project with UI and logic implementation
-
-### 3. Python Practice Projects
-- A collection of Python mini projects and coding practice programs
-- Covers logic building and problem-solving
-
-### 4. AI / ML Mini Projects
-- Small machine learning and AI-related implementations for learning and experimentation
-
-> You can replace these with your real GitHub repository links later.
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangadharyeddula&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharyeddula&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharyeddula&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/gangadharyeddula" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/gangadharyeddula">
+    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/gangadhar-yeddula-ab8080366" target="_blank">
+  <a href="https://linkedin.com/in/gangadhar-yeddula-ab8080366">
     <img src="https://img.shields.io/badge/LinkedIn-Gangadhar_Yeddula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🚀 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gangadharyeddula&label=Profile%20views&color=0e75b6&style=flat" alt="gangadharyeddula" />
+<table>
+<tr>
+<td width="65%" valign="top">
+
+- 🎓 I’m a **B.Tech student in Computer Science Engineering (AI & ML)**
+- 💻 Passionate about **MERN Stack Development, Python Full-Stack, and AI/ML**
+- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, FastAPI**
+- 🛠️ I love building **real-world projects** and solving practical problems
+- 📚 Improving my **DSA, backend development, and full-stack application skills**
+- 🎯 Goal: To become a **Full-Stack Developer + AI/ML Engineer**
+
+</td>
+
+<td width="35%" valign="top">
+
+## ⚡ Quick Facts
+
+- 🌍 From: **India**
+- 💡 Focus: **Full-Stack & AI/ML**
+- 📘 Learning Every Day
+- 🚀 Always Building
+- ❤️ Code. Learn. Build. Repeat.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=5CC8FF" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=5CC8FF" />
+</p>
+
+## 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+## ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+</p>
+
+## 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+## 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
 
 ---
 
-## ✨ Quote
+# 📊 GitHub Stats
 
-> **"Keep building, keep learning, and let your work speak for you."**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gangadharyeddula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharyeddula&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharyeddula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 💼 Experience
 
-> This part works **only after you set up GitHub Actions**.  
-> After setup, uncomment the code below if needed.
+## MERN Stack Developer Intern
+- Built full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
+- Worked on **REST APIs, CRUD operations, and frontend-backend integration**
 
-![snake gif](https://github.com/gangadharyeddula/gangadharyeddula/blob/output/github-snake-dark.svg)
+## AI & Machine Learning Intern
+- Learned **ML fundamentals, data preprocessing, and model evaluation**
+- Worked on **predictive analytics and machine learning concepts**
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 📌 Placement Portal
+Full-stack placement management application for handling student and placement-related activities.
+
+**Tech:** React, Node.js, MongoDB, FastAPI  
+🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📌 BMI Calculator
+A simple and responsive BMI calculator project with clean UI and beginner-friendly logic.
+
+**Tech:** HTML, CSS, JavaScript / Python  
+🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📌 Python Mini Projects
+A collection of Python mini projects for learning, logic building, and hands-on practice.
+
+**Tech:** Python  
+🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📌 AI / ML Projects
+Mini machine learning and AI projects focused on experimentation and practical understanding.
+
+**Tech:** Python, ML Libraries  
+🔗 **Repo:** [View Project](https://github.com/gangadharyeddula)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Current Focus
+
+- 🔭 Building **full-stack web applications**
+- ⚡ Working with **FastAPI, Node.js, MongoDB**
+- 📘 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **AI/ML concepts and projects**
+- 🚀 Improving clean code, backend logic, and project structure
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/gangadharyeddula">
+    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gangadhar-yeddula-ab8080366">
+    <img src="https://img.shields.io/badge/LinkedIn-Gangadhar_Yeddula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gangadharyeddula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gangadharyeddula&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">“The best way to predict the future is to build it.”</h3>
