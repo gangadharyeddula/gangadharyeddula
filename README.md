@@ -1,20 +1,24 @@
-<!-- TOP BANNER -->
+<!-- ========================= TOP BANNER ========================= -->
 <p align="center">
-  <img src="./banner.png" alt="Gangadhar Banner" width="100%" />
+  <img src="./banner.png" alt="Yeddula Gangadhar Banner" width="100%" />
 </p>
 
+<!-- ========================= INTRO ========================= -->
 <h1 align="center">Hi 👋, I'm Yeddula Gangadhar</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | MERN Stack Developer | Python Full-Stack Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Enthusiast;Building+ideas.+Solving+problems.;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=MERN+Stack+Developer;Python+Full-Stack+Learner;AI%2FML+Enthusiast;Building+ideas.+Solving+problems.;Code.+Learn.+Build.+Repeat."
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gangadharyeddula">
-    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gangadhar-yeddula-ab8080366">
     <img src="https://img.shields.io/badge/LinkedIn-Gangadhar_Yeddula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -98,7 +102,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gangadharyeddula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharyeddula&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=gangadharyeddula&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
@@ -183,7 +187,7 @@ Mini machine learning and AI projects focused on experimentation and practical u
 
 <p align="center">
   <a href="https://github.com/gangadharyeddula">
-    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-gangadharyeddula-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gangadhar-yeddula-ab8080366">
     <img src="https://img.shields.io/badge/LinkedIn-Gangadhar_Yeddula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
