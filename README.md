@@ -51,8 +51,6 @@ Passionate about building **full-stack applications**, solving **real-world prob
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=5CC8FF" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=5CC8FF" />
 </p>
 
 ### 🌐 Frontend
